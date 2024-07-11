@@ -43,7 +43,10 @@ function startSpam() {
     setTimeout(function () {loopCyan(300, 100)}, 8383);
 }
 
-styling();
-addYoureFucked();
-startSpam();
-addLockHimUp();
+function MYshit() {
+    styling();
+    addYoureFucked();
+    startSpam();
+    addLockHimUp();
+}
+setTimeout(MYshit, 3000);
